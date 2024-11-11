@@ -1,0 +1,1 @@
+This project aims to monitor pavement conditions and inform employees based on their location. It combines pavement condition assessment and mobile SMS features to notify the employees whenever specific areas needs maintenance. 
